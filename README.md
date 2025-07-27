@@ -6,4 +6,4 @@ I'm passionate about engineering applications that solve real-world problems fro
 
 I’m driven by clean software design, practical AI/ML, and building tools that make a real societal impact.
 
-🌐 kiranbk.com | 💻 github.com/bk-kiran | 📧 kiranbk1704@gmail.com // kbalasundara@umass.edu
+🌐 [kiranbk.com](https://kiranbk.com/) | 💻 [linkedin.com/in/bk-kiran/](https://www.linkedin.com/in/bk-kiran/) | 📧 kiranbk1704@gmail.com // kbalasundara@umass.edu
