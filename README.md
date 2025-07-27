@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi I'm Kiran BK!
 
-👋 Hi! I'm Kiran, a junior Honors Computer Science major at UMass Amherst, focused on building intelligent, end-to-end systems across full-stack engineering, NLP/LLMs, and data science.
+I'm a junior Honors Computer Science major at UMass Amherst, focused on building intelligent, end-to-end systems across full-stack engineering, NLP/LLMs, and data science.
 
 I'm passionate about engineering applications that solve real-world problems from building messaging infrastructure and dynamic UIs @ Zyntro.io, to uncovering infection control trends from 50k+ hospital records @ TruBridge. I also previously conducted research at the BioNLP Lab @ UMass, where I fine-tuned clinical LLMs to support medical decision-making.
 
