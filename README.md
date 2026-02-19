@@ -3,7 +3,7 @@
 I'm a Honors CS student @ UMass Amherst interested in building production-ready AI/ML applications and the cloud infrastructure that powers them.
 
 
-🔭 I’m working as a **Software QA Intern** @ Alterea and currently building **dopamine drop** (a gamification web application + browser for Canvas assignments)
+🔭 I’m working as a **Software Developer Intern** @ Alterea and currently building **dopamine drop** (a gamification web application + browser for Canvas assignments)
 
 🌱 I'm diving deep into neural network architectures and mastering AWS cloud patterns!
 
